@@ -1,0 +1,31 @@
+body{
+	background-color: black;
+}
+
+.c_box{
+background-color:yellow;
+margin: 100px 0:;
+margin-bottom: 10px;
+min-height: 200px;
+}
+.box{
+	background-color: blue;
+	border:1px solid green;
+	width:200px;
+	height: 100px;
+	font-size: 30px;
+	color:white;
+}
+S
+h1{
+	margin: auto 0;
+}
+
+.box1{
+	background-color: pink;
+	border:1px solid green;
+	/*width:200px;*/
+	height: 100px;
+	font-size: 30px;
+	color:white;
+}
